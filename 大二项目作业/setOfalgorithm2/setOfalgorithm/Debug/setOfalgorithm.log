@@ -1,0 +1,21 @@
+﻿  main.c
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(257): warning C4013: “countNode”未定义；假设外部返回 int
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(330): warning C4013: “getch”未定义；假设外部返回 int
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(334): warning C4013: “exit”未定义；假设外部返回 int
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(345): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(363): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(365): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(384): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(386): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(403): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(405): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\setofalgorithm\setofalgorithm\main.c(318): warning C4101: “j”: 未引用的局部变量
+  setOfalgorithm.vcxproj -> C:\Users\xxx_032\documents\visual studio 2015\Projects\setOfalgorithm\Debug\setOfalgorithm.exe
+  setOfalgorithm.vcxproj -> C:\Users\xxx_032\documents\visual studio 2015\Projects\setOfalgorithm\Debug\setOfalgorithm.pdb (Full PDB)

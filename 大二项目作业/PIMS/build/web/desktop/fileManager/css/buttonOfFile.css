@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-6-21, 18:32:13
+    Author     : xxx_032
+*/
+
+.fileupload{
+      position: relative;
+      width:200px;
+      height:35px;
+      border:1px solid #66B3FF;
+      border-radius: 4px;
+      box-shadow: 1px 1px 5px #66B3FF;
+     line-height: 35px;
+     padding-left: 8px;
+     overflow: hidden;
+ }
+ .fileupload input{
+    position: absolute;
+     width:200px;
+     height:35px;
+     right: 0;
+     top: 0;
+     opacity: 0;
+     filter: alpha(opacity=0);
+     -ms-filter: 'alpha(opacity=0)';
+ }

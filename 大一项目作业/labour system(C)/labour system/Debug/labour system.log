@@ -1,0 +1,99 @@
+﻿  labour system.c
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(200): warning C4013: “strcmp”未定义；假设外部返回 int
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(272): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(188): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(213): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(216): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(246): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(271): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(279): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(347): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(128): warning C4101: “name”: 未引用的局部变量
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(370): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(403): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(505): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(508): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(511): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(534): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(537): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(540): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(591): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(597): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(603): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(743): warning C4013: “getch”未定义；假设外部返回 int
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(777): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(783): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(789): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(911): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(917): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(923): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1058): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1064): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1070): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1191): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1197): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1203): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1624): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1682): warning C4047: “==”:“int”与“labour *”的间接级别不同
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1696): warning C4047: “==”:“int”与“labour *”的间接级别不同
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1710): warning C4047: “==”:“int”与“labour *”的间接级别不同
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1747): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(471): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(554): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1558): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1563): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1581): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1609): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1622): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1630): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1648): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1653): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1674): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1732): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1745): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1753): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1771): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1776): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1933): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(1960): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(447): warning C4101: “choice”: 未引用的局部变量
+d:\c语言作业\mdzz\labour system\labour system\labour system.c(2011): warning C4476: "printf": 格式说明符中的类型字段字符“\xe6”未知
+  labour system.vcxproj -> D:\C语言作业\mdzz\labour system\Debug\labour system.exe
+  labour system.vcxproj -> D:\C语言作业\mdzz\labour system\Debug\labour system.pdb (Full PDB)

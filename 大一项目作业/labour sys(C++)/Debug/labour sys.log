@@ -1,0 +1,129 @@
+﻿  samples.cpp
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(253): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(254): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(257): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(259): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(261): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(263): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(265): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(267): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(269): warning C4244: “-=”: 从“const double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(280): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(273): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(280): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(288): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(300): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(301): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(302): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(338): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(339): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(342): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(344): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(346): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(348): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(350): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(352): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(355): warning C4244: “-=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(366): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(359): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(366): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(376): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(391): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(388): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(389): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(390): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(391): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(422): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(424): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(425): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(428): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(430): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(432): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(434): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(436): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(438): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(441): warning C4244: “-=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(452): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(445): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(452): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(462): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(476): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(477): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(474): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(475): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(476): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(477): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(512): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(514): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(516): warning C4244: “-=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(528): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(521): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(528): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(538): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(552): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(553): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(550): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(551): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(552): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(553): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(580): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(581): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(583): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(585): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(587): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\public.h(589): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(111): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(773): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(792): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(975): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(985): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1024): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1073): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1073): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1074): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1075): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1076): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1118): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1123): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1123): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1124): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1125): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\c语言作业\mdzz\labour sys\labour sys\samples.cpp(1126): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+  labour sys.vcxproj -> D:\C语言作业\mdzz\labour sys\Debug\labour sys.exe
+  labour sys.vcxproj -> D:\C语言作业\mdzz\labour sys\Debug\labour sys.pdb (Full PDB)

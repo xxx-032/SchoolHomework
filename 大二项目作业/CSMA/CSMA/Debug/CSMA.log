@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(180): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(186): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(175): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(211): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(217): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(206): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(244): warning C4305: “参数”: 从“__int64”到“DWORD”截断
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(244): warning C4309: “参数”: 截断常量值
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(165): warning C4715: “getOneNext”: 不是所有的控件路径都返回值
+c:\users\xxx_032\documents\visual studio 2015\projects\csma\csma\main.cpp(140): warning C4715: “getNext”: 不是所有的控件路径都返回值
+  CSMA.vcxproj -> C:\Users\xxx_032\documents\visual studio 2015\Projects\CSMA\Debug\CSMA.exe
+  CSMA.vcxproj -> C:\Users\xxx_032\documents\visual studio 2015\Projects\CSMA\Debug\CSMA.pdb (Full PDB)
